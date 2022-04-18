@@ -1,16 +1,36 @@
-### Hi there 👋
+###Hi there, I am Darren.
 
-<!--
-**darrengeary/darrengeary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am an aspiring Full Stack Developer and love to code.
 
-Here are some ideas to get you started:
+*:books: Im currently upskilling in React, Javascript and NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Languages and Tech:
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="30" width="30" >
+
+
+
+class About extends Darren
+{
+    public Array getWorkExperience(){
+        return [ 
+            work: { 
+                company: 'SAP', 
+                position: 'Support Engineer' 
+            }
+        ];
+    }
+
+    public Array getSkills(){
+        return [
+            Javascript::class,
+            ReactJS::class,
+            Java::class,
+            ABAP::class,
+        ];
+    }
+
+    public String getFutureGoal()
+    {
+        return 'To master MERN stack.';
+    }
+}
