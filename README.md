@@ -1,4 +1,4 @@
-<h3>Hi there, I am Darren.</h3>
+<h3>Hi, I am Darren. 👋</h3>
 
 <h2>I am an aspiring Full Stack Developer and love to code.</h2>
 
