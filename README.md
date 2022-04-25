@@ -33,6 +33,6 @@
       }
 
       public String getFutureGoal(){
-          return 'To master MERN stack.';
+          return masterMernStack().';
       }
     }
