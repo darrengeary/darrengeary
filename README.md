@@ -1,6 +1,6 @@
-<h3>Hi, I am Darren. 👋</h3>
+<h2>Hi, I am Darren. 👋</h2>
 
-<h2>I am an aspiring Full Stack Developer and love to code.</h2>
+<h3>I am an aspiring Full Stack Developer and love to code.</h3>
 
    * :books: Im currently upskilling in React, Javascript and NodeJS
 
